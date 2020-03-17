@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-Last updated February 16, 2019
+Last updated March 17, 2020
 
 This privacy policy covers the use of the PotPlayer YouTube Shortcut web-browser extension (addon)
 
